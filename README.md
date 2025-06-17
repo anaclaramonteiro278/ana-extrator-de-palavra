@@ -1,0 +1,1 @@
+# ana-extrator-de-palavra
